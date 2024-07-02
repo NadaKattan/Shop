@@ -1,3 +1,3 @@
 # Wellness-Kitchen website landing page [Responsive Design]
-[Demo](https://github.com/Nada-Amin/Wellness-Hub/assets/104012796/a7a193fd-79fa-46c0-bf1b-c00dcd10d458)
+https://github.com/NadaKattan/Wellness-Kitchen/assets/168970285/6082cf03-35ff-4c2b-8782-8705f0745048
 
